@@ -1,0 +1,40 @@
+HTML
+
+<nav> tag is used for declaring the navigational section in HTML
+
+<header> edit the top of the page
+
+<a> create a link in the page
+
+<ul> define unordered list
+
+<main> tag specifies the main content of a document
+
+<h1> describe the topic of the page and its content
+
+<button> used to create a clickable button within HTML 
+
+<div>used to make divisions of content in the web page
+
+<span> used to group elements for styling purposes
+
+<footer>  defines a footer for a document or a section of the web page
+
+<input> allow users to input data
+
+<p> tag is used to define a paragraph in a webpage
+
+<h2> define heading levels
+
+<br> produces a line break in text (carriage-return)
+
+<img> used to incorporate typically icons or small graphics
+
+<li> used to represent an item in a list
+
+
+
+
+
+
+
